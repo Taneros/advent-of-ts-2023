@@ -1,0 +1,1 @@
+https://typehero.dev/challenge/day-18
